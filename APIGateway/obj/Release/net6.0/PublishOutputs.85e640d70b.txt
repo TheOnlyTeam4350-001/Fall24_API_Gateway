@@ -1,0 +1,14 @@
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\APIGateway.exe
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\appsettings.Development.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\appsettings.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\APIGateway.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\APIGateway.deps.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\APIGateway.runtimeconfig.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\APIGateway.pdb
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\System.Net.Http.Formatting.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Newtonsoft.Json.Bson.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\Fall24_API_Gateway\APIGateway\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
